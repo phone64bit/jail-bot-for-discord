@@ -1,1 +1,1 @@
-This bot was coded when i had practiced NodeJS so it's hard to read.
+This bot was coded when i had practiced NodeJS so that why it's hard to read.
