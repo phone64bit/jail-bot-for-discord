@@ -1,2 +1,1 @@
-# jail-bot-for-discord
-Origin code from some discord bot
+This bot was coded when i had practiced NodeJS so it's hard to read.
